@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd Tausif</h1>
+<h1 align="center">Hi 👋, I'm Ahsan Beg</h1>
 <h3 align="center">I'm a proficient Full-Stack Web Developer with a huge interest in JavaScript.</h3>
 
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=sheikhtausif&label=Profile%20views&color=0e75b6&style=flat"alt="sheikhtausif" /></img></h3>
