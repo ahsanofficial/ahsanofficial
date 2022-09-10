@@ -30,3 +30,5 @@
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza) -->
 
 <!-- <a href="https://github.com/ahsanofficial/github-readme-activity-graph"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahsanofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shreyasgkhakal100&theme=dracula&hide_border=true)
