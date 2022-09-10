@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Beg</h1>
-<h3 align="center">I'm a proficient Front-End Web Developer with a huge interest in JavaScript.</h3>
+<h3 align="center">Efficient Front-End Developer, having problem-solving ability and proficiency in React, Redux and TypeScript. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration and time management. Looking for an opportunity to work in a challenging position for a technology-driven organization.</h3>
 
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
 
