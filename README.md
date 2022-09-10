@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Beg</h1>
-<h3 align="center">I'm a proficient Full-Stack Web Developer with a huge interest in JavaScript.</h3>
+<h3 align="center">I'm a proficient Front-End Web Developer with a huge interest in JavaScript.</h3>
 
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
 
