@@ -31,4 +31,4 @@
 
 <!-- <a href="https://github.com/ahsanofficial/github-readme-activity-graph"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahsanofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanofficial&theme=bluered&hide_border=true)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanofficial&theme=purple&hide_border=true)
