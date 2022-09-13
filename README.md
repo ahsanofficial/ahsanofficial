@@ -11,7 +11,7 @@
 ### Skilled In 
 [![HTML Badge](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=F06529)](#)  &nbsp; 
 [![CSS Badge](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#) &nbsp; 
-https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) &nbsp; 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-602C50.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50) &nbsp; 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007ACC)](#)  &nbsp; 
