@@ -11,15 +11,12 @@
 ### Skilled In 
 [![HTML Badge](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&labelColor=black&logo=html5&logoColor=F06529)](#)  &nbsp; 
 [![CSS Badge](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#) &nbsp; 
+![Bootstrap](https://img.shields.io/badge/bootstrap-602C50.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50) &nbsp; 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007ACC)](#)  &nbsp; 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; 
 [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) &nbsp; 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) &nbsp; 
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4DB33D)](#) &nbsp; 
-![Express.js](https://img.shields.io/badge/express.js-303030.svg?style=for-the-badge&labelColor=black&logo=express&logoColor=303030) &nbsp; 
 ![Material-UI](https://img.shields.io/badge/materialui-00B0FF.svg?style=for-the-badge&labelColor=black&logo=materialui&logoColor=00B0FF) &nbsp; 
-![Bootstrap](https://img.shields.io/badge/bootstrap-602C50.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50) &nbsp; 
 ![Git](https://img.shields.io/badge/git-F1502F.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanofficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahsanofficial" /></p>
