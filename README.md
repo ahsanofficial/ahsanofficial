@@ -24,7 +24,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
 ![Git](https://img.shields.io/badge/git-F1502F.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F) &nbsp; 
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=ahsanofficial/Unit-2 Project)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=ahsanofficial/Unit-2-project)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanofficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&show_icons=true&theme=dark&locale=en" alt="ahsanofficial" /></p>
