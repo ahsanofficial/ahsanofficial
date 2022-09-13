@@ -9,7 +9,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/bega95091N"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/bega95091N" /></a></p>
 
 ### Skilled In 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp; 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src=""/>
 <img src=""/>
