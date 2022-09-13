@@ -10,11 +10,11 @@
 
 ### Skilled In 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)  &nbsp; 
-[![CSS Badge](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264DE4)](#) &nbsp; 
+[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &nbsp; 
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) &nbsp; 
-![Bootstrap](https://img.shields.io/badge/bootstrap-602C50.svg?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=602C50) &nbsp; 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  &nbsp; 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007ACC)](#)  &nbsp; 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp; 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  &nbsp; 
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)  &nbsp; 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; 
 [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) &nbsp; 
 [![Tailwind-UI Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) &nbsp; 
