@@ -17,6 +17,7 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&labelColor=black&logo=Typescript&logoColor=007ACC)](#)  &nbsp; 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) &nbsp; 
 [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) &nbsp; 
+[![Tailwind-UI Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#) &nbsp; 
 ![Material-UI](https://img.shields.io/badge/materialui-00B0FF.svg?style=for-the-badge&labelColor=black&logo=materialui&logoColor=00B0FF) &nbsp; 
 ![Git](https://img.shields.io/badge/git-F1502F.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=F1502F)
 
