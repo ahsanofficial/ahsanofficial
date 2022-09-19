@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:  
 <p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 <!-- <h3 align="center">Support:</h3> -->
 <p align="center"><a href="https://www.buymeacoffee.com/bega95091N"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/bega95091N" /></a></p>
