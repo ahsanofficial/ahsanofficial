@@ -6,8 +6,9 @@
 
 ### 📫 How to reach me: 
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza) 
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
 <p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanbeg) 
 <a href="https://www.linkedin.com/in/shreyas-g-khakal/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyasgkhakal100" height="30" width="40" />
   </a>
