@@ -4,7 +4,9 @@
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
 
 
-<p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p>
+### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanbeg) &nbsp;  
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza) 
+<!-- <p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p> -->
 
 <!-- <h3 align="center">Support:</h3> -->
 <p align="center"><a href="https://www.buymeacoffee.com/bega95091N"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/bega95091N" /></a></p>
@@ -32,8 +34,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&show_icons=true&theme=dark&locale=en" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=dark" alt="ahsanofficial" /></p>
 
-### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanbeg) &nbsp;  
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza) 
 
 <!-- <a href="https://github.com/ahsanofficial/github-readme-activity-graph"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahsanofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
