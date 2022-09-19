@@ -4,14 +4,9 @@
 <h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
 
 
-### 📫 How to reach me: 
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza) 
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/imAhsanmirza) 
- 
+### 📫 How to reach me:  
 <p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p>
-<a href="https://www.linkedin.com/in/shreyas-g-khakal/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyasgkhakal100" height="30" width="40" />
-  </a>
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/ahsanbeg) 
 
 <!-- <h3 align="center">Support:</h3> -->
 <p align="center"><a href="https://www.buymeacoffee.com/bega95091N"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/bega95091N" /></a></p>
