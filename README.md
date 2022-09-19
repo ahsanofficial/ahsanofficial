@@ -7,7 +7,10 @@
 ### 📫 How to reach me: 
 <!--  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=black&logo=Twitter&logoColor=white)](https://twitter.com/imAhsanmirza)  -->
 <p align="center"><a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a></p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanbeg) 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=black&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanbeg)  -->
+<a href="https://www.linkedin.com/in/shreyas-g-khakal/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyasgkhakal100" height="30" width="40" />
+  </a>
 
 <!-- <h3 align="center">Support:</h3> -->
 <p align="center"><a href="https://www.buymeacoffee.com/bega95091N"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="https://www.buymeacoffee.com/bega95091N" /></a></p>
