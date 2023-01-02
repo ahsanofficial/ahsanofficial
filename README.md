@@ -31,7 +31,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanofficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&show_icons=true&theme=dark&locale=en" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=dark" alt="ahsanofficial" /></p>
-![Streak Graph](https://streak-stats.demolab.com/?user=Hashal890&theme=highcontrast&border=#f49586)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashal890&theme=react)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hashal890&theme=tokyo-night)
-[![Visitors Count](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahsanofficial&theme=tokyo-night" alt="GitHub Activity Graph" />
