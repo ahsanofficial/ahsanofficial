@@ -31,5 +31,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanofficial&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&show_icons=true&theme=dark&locale=en" alt="ahsanofficial" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=dark" alt="ahsanofficial" /></p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsanofficial&theme=2077)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahsanofficial&theme=tokyo-night)
