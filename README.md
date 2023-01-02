@@ -36,4 +36,4 @@
 <a href="https://github.com/ahsanofficial/github-readme-activity-graph"><img alt="Ahsan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahsanofficial&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanofficial&theme=dracula&hide_border=true) -->
-<img  src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&&show_icons=true&theme=radical"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanofficial&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
