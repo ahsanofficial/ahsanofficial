@@ -31,5 +31,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanofficial&layout=compact&theme=radical" alt="GitHub Activity" />&nbsp; </h3>
 <h3 align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Activity" />&nbsp; </h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=radical&hide_border=false" alt="GitHub Activity"/>&nbsp;
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahsanofficial&theme=tokyo-night" alt="GitHub Activity Graph" />&nbsp;
+<h3 align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=radical&hide_border=false" alt="GitHub Activity"/>&nbsp;</h3>
+<h3 align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahsanofficial&theme=tokyo-night" alt="GitHub Activity Graph" />&nbsp;</h3>
