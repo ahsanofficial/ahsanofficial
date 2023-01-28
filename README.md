@@ -27,10 +27,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  &nbsp;
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  &nbsp;
 
-<br> <br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahsanofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanofficial&layout=compact&theme=radical)
-<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahsanofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Activity" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanofficial&theme=radical&hide_border=false" alt="GitHub Activity" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanofficial&layout=compact&theme=radical" alt="GitHub Activity" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahsanofficial&theme=tokyo-night" alt="GitHub Activity Graph" />
