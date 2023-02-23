@@ -6,7 +6,7 @@
 
 <h3 align="center">📫 How to reach me:  <a href="https://twitter.com/imAhsanmirza" target="blank"><img src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza" /></a>  <a href="https://www.linkedin.com/in/ahsanbeg/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://codesandbox.io/u/bega95091" target="_blank"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/bega95091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahsan_social" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/bega95091" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="ahsan_social"/></a>
 </h3>
 
 <!-- <h3 align="center">Support:</h3> -->
