@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan Beg</h1>
 <p align="center">Efficient Front-End Developer, having problem-solving ability and proficiency in React, Redux and TypeScript. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration and time management. Looking for an opportunity to work in a challenging position for a technology-driven organization.</p>
 
-<h3 align="center">Thanks for visit! &nbsp; <img src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
+<h3 align="center">Thanks for visit! &nbsp; <img align="center" src="https://komarev.com/ghpvc/?username=ahsanofficial&label=Profile%20views&color=0e75b6&style=flat"alt="ahsanofficial" /></img></h3>
 
 
 <h3 align="center">📫 How to reach me:  <a href="https://twitter.com/imAhsanmirza" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/imAhsanmirza?logo=twitter&style=for-the-badge" alt="imAhsanmirza"/></a>
